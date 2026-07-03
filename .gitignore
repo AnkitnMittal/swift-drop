@@ -1,3 +1,6 @@
+# Files in uploads directory
+uploads/*
+
 # Logs
 logs
 *.log
